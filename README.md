@@ -1,2 +1,3 @@
 # football-news-mobile
-Assignment
+Assignment.  
+Nothing interesting here.
